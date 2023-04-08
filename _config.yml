@@ -24,6 +24,12 @@ collections:
   places:
     output: true
     permalink: /place/:slug
+    
+# Pages path
+defaults:
+  - scope:
+      path: '_places'
+    
 
 minima:
   # Minima date format.
