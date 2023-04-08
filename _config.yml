@@ -19,7 +19,8 @@ plugins:
     
 # Collections
 collections:
-  - places
+  places:
+    output: true
     
 
 minima:
