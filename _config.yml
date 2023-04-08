@@ -16,11 +16,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
-
-collections:
-  places:
-    output: true
-    permalink: /place/:slug
     
 # Pages path
 defaults:
