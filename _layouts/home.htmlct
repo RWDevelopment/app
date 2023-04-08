@@ -9,7 +9,7 @@ layout: base
   <a class="post-link" href="{{ place.url | relative_url }}">
      {{ place.title | escape }}
      <hr>
-     {{ place.content | escape }}
+     {{ place.description | escape }}
   </a>
 </li>
 {%- endfor -%}
