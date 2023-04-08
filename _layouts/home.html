@@ -23,7 +23,7 @@ layout: base
       </li>
 {%- endfor -%}
   
-  {%- for place in places -%}
+  {%- for place in site.places -%}
       <li>
        
           <a class="post-link" href="{{ place.url | relative_url }}">
