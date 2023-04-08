@@ -22,6 +22,16 @@ layout: base
         {%- endif -%}
       </li>
 {%- endfor -%}
+  
+  {%- for place in places -%}
+      <li>
+       
+          <a class="post-link" href="{{ place.url | relative_url }}">
+            {{ place.title | escape }}
+          </a>
+       
+      </li>
+{%- endfor -%}
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
