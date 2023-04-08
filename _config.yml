@@ -21,6 +21,7 @@ plugins:
 collections:
   places:
     output: true
+    permalink: /:collection/:name
     
 
 minima:
