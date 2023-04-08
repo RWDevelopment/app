@@ -17,10 +17,9 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
     
-# Pages path
-defaults:
-  - scope:
-      path: '_places'
+# Collections
+collections:
+  - places
     
 
 minima:
