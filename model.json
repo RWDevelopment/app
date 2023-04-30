@@ -10,9 +10,9 @@
     ":description": "Add image",
     ":type": "image"
   },
-  "My Post": {
-    "Title": {":type": "line", ":richtext": true},
-    "Content": {":type": "text", ":richtext": true}
+  "my-post": {
+    "title": {":type": "line", ":richtext": true},
+    "content": {":type": "text", ":richtext": true}
   },
   "custom-object": {
     "custom-line": {
