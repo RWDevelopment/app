@@ -10,9 +10,9 @@
     ":description": "Add image",
     ":type": "image"
   },
-  "custom-field": {
-    "lineWithFormatting": {":type": "line", ":richtext": true},
-    "textWithFormatting": {":type": "text", ":richtext": true}
+  "My Post": {
+    "Title": {":type": "line", ":richtext": true},
+    "Content": {":type": "text", ":richtext": true}
   },
   "custom-object": {
     "custom-line": {
