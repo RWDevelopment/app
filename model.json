@@ -3,7 +3,8 @@
   ":description": "This is a simple example of a FrontAid CMS model. ",
   "custom-field": {
     ":description": "This example text is used as a description.",
-    ":type": "text"
+    ":type": "text",
+    ":richtext": true
   },
    "custom-field": {
     ":description": "Add image",
