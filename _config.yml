@@ -20,14 +20,8 @@ plugins:
   - jekyll-imagemagick
   - jekyll-get-json
 
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  profile: false
-  blanklines: false
-  ignore:
-    envs: [development]
+feed:
+  path: atom.xml
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
