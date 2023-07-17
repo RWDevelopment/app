@@ -16,7 +16,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-pwa-plugin
     
 # Collections
 collections:
