@@ -22,9 +22,10 @@ plugins:
 
 markdown: kramdown
 feed:
-  path: atom.xml
   collections:
     - places
+    path: atom.xml
+  
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
