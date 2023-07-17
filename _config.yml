@@ -10,7 +10,7 @@ description: >
 
 # Build settings
 
-theme: minima
+# theme: minima
 
 # Theme-specific settings
 plugins:
@@ -26,7 +26,7 @@ collections:
     permalink: /:collection/:name
     
 
-minima:
+# minima:
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
