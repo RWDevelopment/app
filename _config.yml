@@ -16,6 +16,16 @@ plugins:
   - jekyll-include-cache
   - jekyll-minifier
 
+
+# -----------------------------------------------------------------------------
+# Jekyll Minifier
+# -----------------------------------------------------------------------------
+
+jekyll-minifier:
+  exclude: ['robots.txt']
+  uglifier_args:
+    harmony: true
+
 # Collections
 collections:
   places:
