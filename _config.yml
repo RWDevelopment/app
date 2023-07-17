@@ -20,6 +20,7 @@ plugins:
   - jekyll-imagemagick
   - jekyll-get-json
 
+markdown: kramdown
 feed:
   path: atom.xml
 
