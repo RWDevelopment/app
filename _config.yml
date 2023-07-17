@@ -16,6 +16,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-minifier
   - jekyll-imagemagick
+  - jekyll-get-json
 
 
 # -----------------------------------------------------------------------------
