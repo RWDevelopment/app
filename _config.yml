@@ -16,12 +16,8 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-markdown
 
-kramdown:
-  syntax_highlighter: rouge
-  input: GFM
-  auto_ids:       true
-  toc_levels:     1..3
     
 # Collections
 collections:
