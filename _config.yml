@@ -10,7 +10,7 @@ description: >
 
 # Build settings
 
-# theme: minima
+theme: minima
 
 # Theme-specific settings
 plugins:
