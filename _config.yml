@@ -22,7 +22,6 @@ plugins:
 
 markdown: kramdown
 feed:
-  path: atom.xml
   collections:
     places:
       path: places/atom.xml
