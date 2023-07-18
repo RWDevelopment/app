@@ -11,7 +11,7 @@ description: >
   MyApp description.
 
 # Theme-specific settings
-plugins:
+gems:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
