@@ -25,9 +25,9 @@ markdown: kramdown
 feed:
   collections:
     places:
-        path: /places.xml
+        path: "/places.atom"
     bikes:
-        path: /bikes.xml
+        path: "/bikes.atom"
   
 
 # -----------------------------------------------------------------------------
