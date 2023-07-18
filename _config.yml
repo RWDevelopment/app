@@ -22,9 +22,12 @@ plugins:
 
 markdown: kramdown
 feed:
+  path: atom.xml
   collections:
     places:
-      path: atom.xml
+      path: places/atom.xml
+    bikes:
+      path: bikes/atom.xml
   
 
 # -----------------------------------------------------------------------------
