@@ -24,10 +24,9 @@ markdown: kramdown
 
 feed:
   collections:
-    places:
-        path: "/places.atom"
-    bikes:
-        path: "/bikes.atom"
+    - places
+    - bikes
+     
   
 
 # -----------------------------------------------------------------------------
