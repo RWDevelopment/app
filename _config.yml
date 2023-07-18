@@ -25,6 +25,7 @@ markdown: kramdown
 feed:
   collections:
     - places
+    - posts
       
      
   
